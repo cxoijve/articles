@@ -1,0 +1,27 @@
+With this historic trial in the Finnish capital’s port last week, ABB and Helsinki City Transport took the next step in autonomous shipping. In the remote trial, the world’s first for an existing passenger ferry, ABB successfully tested the enhancement of ship operations with technologies that are already available for nearly any kind of vessel.“We are excited about the potential impact of this test on the future of the maritime industry,” said Peter Terwiesch, the President of ABB’s Industrial Automation division. “Advanced automation solutions from ABB are making the previously impossible possible for a wide range of sectors, including shipping, which is actively searching for technologies that can rapidly deliver more efficiency and better safety.”“Autonomous does not mean unmanned. As vessels become more electric, digital and connected than ever before, ABB is able to equip seafarers with existing solutions that augment their skillsets. In this way, we are enhancing the overall safety of marine operations,” said Juha Koskela, Managing Director at ABB’s Marine & Ports unit.Suomenlinna II was retrofitted with ABB’s new dynamic positioning system, ABB Ability™ Marine Pilot Control, and steered from a control center in Helsinki.Speaking after the voyage, Captain Heinonen said: “The progress we have made with the remote trial has been remarkable. I believe we are on the right track to exploring further possibilities of this technology as we move forward.”This breakthrough trial represents a crucial step toward increasing the maritime industry’s acceptance of autonomous operation systems. Autonomous solutions are expected to transform international shipping in the coming decades as the industry recovers from the downturn caused by the 2008 financial crisis. Global demand for maritime transport has grown by 30 percent over the past decade, according to the International Chamber of Shipping data, while more than 10 billion tons of cargo are now transported by sea every year.Suomenlinna II normally voyages from Helsinki to Suomenlinna fortress, the UNESCO World Heritage site on a nearby island. For the remote piloting trial, the ferry departed from Helsinki’s market square, Kauppatori, and Captain Heinonen wirelessly operated Suomenlinna II with ABB Ability™ Pilot Control through a pre-selected area of Helsinki harbor.The trial took place during the vessel’s off hours, away from shore with no passengers aboard, in an area free of other vessels. While it is now equipped with the new dynamic positioning system, the vessel will continue to operate via a set of conventional onboard controls, with the remote mode deployed during the trial only. Research and development will continue with the ferry and her crew.Suomenlinna II, originally built in 2004, is fitted with ABB’s icebreaking Azipod® electric propulsion system. Additionally, the ferry was retrofitted with ABB Ability™ Marine Pilot Vision situational awareness solution in 2017. Suomenlinna II operates year-round, undisturbed by the harsh winter conditions that affect all other modes of transport in the Helsinki region. ABB Ability™ is ABB’s leading offering of digital solutions and services.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
